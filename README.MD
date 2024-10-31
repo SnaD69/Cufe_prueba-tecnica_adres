@@ -15,3 +15,7 @@ Almacenamiento en SQLite: La información extraída se guarda en una base de dat
 Requisitos:
  -Python 3.x
  -Bibliotecas necesarias: sqlite3, re, os# Programa-Python
+
+pasos a seguir:
+tener en cuenta el path donde se almacenan los pdf para que el script funcione correctamente 
+
